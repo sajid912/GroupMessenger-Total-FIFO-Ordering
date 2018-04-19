@@ -1,4 +1,4 @@
-# GroupMessenger2-DS
+# GroupMessenger2-Distributed Systems
 Implemented total ordering across messenger instances that preserves FIFO ordering
 
 This project will focus on:
